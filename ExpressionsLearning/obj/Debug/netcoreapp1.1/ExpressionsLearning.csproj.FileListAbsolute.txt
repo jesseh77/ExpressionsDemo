@@ -1,0 +1,10 @@
+C:\dev\ExpressionsLearning\ExpressionsLearning\bin\Debug\netcoreapp1.1\ExpressionsLearning.deps.json
+C:\dev\ExpressionsLearning\ExpressionsLearning\bin\Debug\netcoreapp1.1\ExpressionsLearning.runtimeconfig.json
+C:\dev\ExpressionsLearning\ExpressionsLearning\bin\Debug\netcoreapp1.1\ExpressionsLearning.runtimeconfig.dev.json
+C:\dev\ExpressionsLearning\ExpressionsLearning\obj\Debug\netcoreapp1.1\ExpressionsLearning.csprojResolveAssemblyReference.cache
+C:\dev\ExpressionsLearning\ExpressionsLearning\obj\Debug\netcoreapp1.1\ExpressionsLearning.csproj.CoreCompileInputs.cache
+C:\dev\ExpressionsLearning\ExpressionsLearning\obj\Debug\netcoreapp1.1\ExpressionsLearning.AssemblyInfo.cs
+C:\dev\ExpressionsLearning\ExpressionsLearning\bin\Debug\netcoreapp1.1\ExpressionsLearning.dll
+C:\dev\ExpressionsLearning\ExpressionsLearning\bin\Debug\netcoreapp1.1\ExpressionsLearning.pdb
+C:\dev\ExpressionsLearning\ExpressionsLearning\obj\Debug\netcoreapp1.1\ExpressionsLearning.dll
+C:\dev\ExpressionsLearning\ExpressionsLearning\obj\Debug\netcoreapp1.1\ExpressionsLearning.pdb
